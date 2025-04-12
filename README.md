@@ -1,55 +1,53 @@
 # 🌴 Vacation Planner Web Application
 
-This project is a full-stack vacation planning web application developed to modernize a legacy travel booking system. It features a Spring Boot backend written in Java and a responsive Angular frontend. The application is integrated with a MySQL database to store and manage customer data, vacation packages, shopping carts, and orders.
+This project is a full-stack vacation planning web application aimed at modernizing a legacy travel booking system. It combines a Spring Boot backend written in Java with a dynamic and responsive Angular frontend, fully integrated with a MySQL database to manage customer data, vacation packages, shopping carts, and orders.
 
 ---
 
 ## 📌 Project Overview
 
-The purpose of this project was to demonstrate key backend development skills using the Spring framework. It includes creating RESTful APIs, integrating with a relational database, organizing clean architecture with multiple layers, and implementing input validation. The backend is fully integrated with a dynamic frontend to simulate real-world functionality in a vacation booking system.
+The main goal of this project was to demonstrate key backend development skills and integrate them with a dynamic frontend experience. By building RESTful APIs, integrating with a relational database, and structuring the backend with clean architecture principles, this app simulates a real-world vacation booking system. The frontend, powered by Angular, communicates seamlessly with the backend to provide a fully functional vacation planning experience.
 
 ---
 
 ## 🧠 Key Concepts and Skills Demonstrated
 
-- Object-oriented programming in Java  
-- REST API design using Spring Boot and Spring Data JPA  
-- Layered backend architecture (controllers, services, DAO, entities)  
-- Database integration with MySQL  
-- Input validation and data handling  
-- Use of Git version control and IntelliJ IDEA  
+- **Object-Oriented Programming (OOP)** in Java  
+- **RESTful API Design** using Spring Boot and Spring Data JPA  
+- **Layered Backend Architecture**: Controllers, Services, DAOs, and Entities  
+- **Database Integration** with MySQL  
+- **Input Validation** and Data Handling  
+- **Git Version Control** and Development in IntelliJ IDEA  
 
-This project builds on foundational knowledge in Java programming, version control, and web development frameworks.
+This project builds on essential programming skills, web development frameworks, and best practices in backend architecture.
 
 ---
 
 ## ⚙️ Technologies Used
 
-### Backend
-- Java 17  
-- Spring Boot 3.3.6  
-- Spring Data JPA  
-- Lombok  
-- Maven  
-- Hibernate Validator  
-- MySQL Connector
+### Backend:
+- **Java 17**  
+- **Spring Boot 3.3.6**  
+- **Spring Data JPA**  
+- **Lombok**  
+- **Maven**  
+- **Hibernate Validator**  
+- **MySQL Connector**
 
-### Frontend
-- Angular  
-- TypeScript  
-- HTML/CSS
+### Frontend:
+- **Angular**  
+- **TypeScript**  
+- **HTML/CSS**
 
-### Database
-- MySQL  
+### Database:
+- **MySQL**
 
 ---
 
 ## 🚀 Application Features
 
-- Full RESTful API for vacation checkout and order placement  
-- Backend validation for customer and order data  
-- MySQL database integration for persistence  
-- Pre-populated with five sample customers on startup (no data duplication)  
-- Modular package structure for maintainability and scalability  
-
----
+- Full **RESTful API** for vacation package checkout and order placement  
+- **Backend validation** to ensure correct customer and order data  
+- Seamless **MySQL database integration** for persistent storage  
+- **Sample customer data** preloaded on startup (ensures no data duplication)  
+- **Modular package structure** for easy maintainability and scalability
